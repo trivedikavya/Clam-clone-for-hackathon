@@ -1,1 +1,1 @@
-# Clam-clone-for-hackathon
+# Clam-clone-for-hackathon a hackathon project 
